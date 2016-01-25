@@ -1,0 +1,9 @@
+{
+  "name": "Mini-Project",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "~4.12.2",
+    "body-parser": "~1.12.0"
+  }
+}
