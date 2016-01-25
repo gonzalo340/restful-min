@@ -5,6 +5,9 @@ RestFul en NodeJS y express de prueba, que almacena y recupera datos en un fiche
 Clonar el repo con el siguiente comando:
 git clone https://github.com/gonzalo340/restful-min
 
+## Instalar las dependencias
+npm install
+
 ## Crear el directorio data en la raiz del proyecto
 cd restful-min && mkdir data
 
