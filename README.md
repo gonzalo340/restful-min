@@ -6,7 +6,7 @@ Clonar el repo con el siguiente comando:
 git clone https://github.com/gonzalo340/restful-min
 
 ## Instalar las dependencias del proyecto
-cd restful && npm install
+cd restful-min && npm install
 
 ## Crear el directorio data en la raiz del proyecto
 mkdir data
