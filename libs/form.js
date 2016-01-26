@@ -67,4 +67,3 @@ Form.FormField = function(params){
 }
 
 module.exports = Form;
-//module.exports = FormField;
