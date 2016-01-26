@@ -19,3 +19,6 @@ Ingresar a la siguiente url desde el navegador para poder ver el ejemplo.
 http://localhost:8080/articulos
 
 #### Por cualquier consulta, escribirme a gonzalo340@gmail.com
+
+### BUGS encontrados
+Cada vez que se quiera guardar, modificar o eliminar un registro en el fichero JSON, se eliminan todos los que ya estan ingresados. Para solucionar ese problema, se debe cargar todos los datos en la misma función que se usa para guardar, modificar o eliminar un registro.
